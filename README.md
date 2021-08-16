@@ -1,3 +1,4 @@
+
 # Fuel-1.4.1-RCE-Updated
 - Update to CVE-2018-16763
 - Exploit Title: fuel CMS 1.4.1 - Remote Code Execution (1)
@@ -15,5 +16,5 @@
 - Immediatly spawns a reverse shell to a netcat listener
 - Removed Burp proxy code so it functions as a stand alone RCE exploit without having to modify the code.
 ## Usage
-
+![proof](https://user-images.githubusercontent.com/75596877/129636542-bf1b5ca2-a387-4316-b2ed-9b4030b92654.png)
 
