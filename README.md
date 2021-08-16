@@ -17,4 +17,6 @@
 - Removed Burp proxy code so it functions as a stand alone RCE exploit without having to modify the code.
 ## Usage
 ![proof](https://user-images.githubusercontent.com/75596877/129636542-bf1b5ca2-a387-4316-b2ed-9b4030b92654.png)
-
+- First Argument: Target ip address
+- Second Argument: Attack box ip address
+- Third Argument: Call back port
