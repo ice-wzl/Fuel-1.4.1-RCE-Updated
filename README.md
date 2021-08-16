@@ -14,3 +14,6 @@
 - Exploit takes sys.argvs instead of having to pass commands in ""
 - Immediatly spawns a reverse shell to a netcat listener
 - Removed Burp proxy code so it functions as a stand alone RCE exploit without having to modify the code.
+## Usage
+![proof](https://user-images.githubusercontent.com/75596877/129636413-85ae465e-1f98-422b-b911-60690fe54813.png)
+
